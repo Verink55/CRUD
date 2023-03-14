@@ -1,0 +1,257 @@
+{
+    "codigoEstado": "200",
+    "mensajeEstado": "Ok",
+    "resultado": {
+        "clieClie": 741,
+        "titulo": 2851,
+        "numeroDeTitulo": "C2851",
+        "fechaExpedicion": "26/10/2021",
+        "oficinaExpedicion": 5,
+        "oficinaResponsable": 1,
+        "tipoBodega": 2,
+        "bodegaLlegada": 2,
+        "bodega": 294,
+        "bodeDireccion": null,
+        "bodegas": [],
+        "codigoTitulo": null,
+        "desde": null,
+        "hasta": null,
+        "mercanciaTransito": false,
+        "poliza": 728,
+        "plazoContratoDeposito": 5,
+        "fechaVencimientoContrato": "31/10/2021",
+        "plazoCertificadoDeposito": 5,
+        "fechaVencimientoCertificado": "31/10/2021",
+        "tipoMercancia": {
+            "timeCodigo": 25,
+            "merma": "34",
+            "aplicaCondicionCalidad": "no",
+            "observaciones": "acites",
+            "timeDescripcion": "prueba a"
+        },
+        "certificadoDepositoMercancia": [
+            {
+                "id": 566,
+                "tipointeres": "Propiedad",
+                "fendoso": "12/11/2021",
+                "cliente": 741,
+                "titulo": 2851,
+                "estado": "ACT",
+                "acreedor": 964,
+                "nit": "9004184153",
+                "nombre": "INBIOS S.A.S.",
+                "direccion": "CR 43 C 7 D 38",
+                "ciudad": "MEDELL�?N",
+                "correo": "csuarezz@almaviva.com.co"
+            }
+        ],
+        "bonoPrenda": [],
+        "mercancia": [
+            {
+                "id": 786,
+                "titulo": 2851,
+                "detalleMercancia": "prueb",
+                "unidadMedida": 44,
+                "unidadMedidaNombre": "KILITOS actIn New York City, a bodega is a small owner-operated convenience store. Its name is deriv",
+                "unidadMedidaSuper": "33",
+                "valorConversion": "12",
+                "cantidad": 3,
+                "cantidadInicial": 5,
+                "valorUnitario": 1,
+                "valorTotal": 8,
+                "fechaVencimiento": "31/10/2021",
+                "observaciones": "vfds",
+                "estado": "ACT",
+                "idLiberacion": 0
+            }
+        ],
+        "mercanciasWms": [],
+        "tipoTitulo": 1,
+        "tipoOperacion": 1,
+        "estado": "APLICADO",
+        "estadoNuevo": null,
+        "tarifa": 10,
+        "minima": 10,
+        "materialSap": 4,
+        "cobroErp": null,
+        "liberacionImpresion": true,
+        "contadorTransito": 0,
+        "divisionIngreso": "no",
+        "flujoExpedicion": null,
+        "codigoSapOfiResponsable": null,
+        "codigoSapOfiExpedicion": "5678",
+        "ingresoOfiExpedicion": 100,
+        "ingresoOfiResponsable": null,
+        "valorTitulosCliente": [
+            {
+                "modalidad": "Propia",
+                "valorTotalTitulos": 80
+            },
+            {
+                "modalidad": "Particular",
+                "valorTotalTitulos": 2469106949.4718347
+            },
+            {
+                "modalidad": "Particular Arrendada",
+                "valorTotalTitulos": 1498294
+            },
+            {
+                "modalidad": "Transito",
+                "valorTotalTitulos": 125174
+            }
+        ],
+        "lstOficinasResponsables": [
+            {
+                "oficNombre": "BOGOTA - AUTOPISTA SUR",
+                "oficCodigo": 617,
+                "oficMunicipio": 1,
+                "oficDepartamento": 3,
+                "oficPais": 92,
+                "oficEstado": "ACT",
+                "oficUcreacion": "admin",
+                "oficFcreacion": "2020-07-07T05:00:00.000+00:00",
+                "oficOfic": 5,
+                "notificacionOficina": false
+            },
+            {
+                "oficNombre": "BOGOTA BAT",
+                "oficCodigo": 603,
+                "oficMunicipio": 1,
+                "oficDepartamento": 3,
+                "oficPais": 92,
+                "oficEstado": "ACT",
+                "oficUcreacion": "admin",
+                "oficFcreacion": "2020-07-07T05:00:00.000+00:00",
+                "oficOfic": 82,
+                "notificacionOficina": false
+            },
+            {
+                "oficNombre": "DIRECCION GENERAL",
+                "oficCodigo": 761,
+                "oficMunicipio": 1,
+                "oficDepartamento": 11,
+                "oficPais": 92,
+                "oficEstado": "ACT",
+                "oficUcreacion": "admin",
+                "oficFcreacion": "2020-07-07T05:00:00.000+00:00",
+                "oficOfic": 1,
+                "notificacionOficina": false
+            }
+        ],
+        "tiposBodega": [
+            {
+                "tiboTibo": 1,
+                "tiboNombre": "Almacenamiento",
+                "tiboDescripcion": "Propia",
+                "tiboEstado": "ACT",
+                "tiboUcreacion": "Periferia",
+                "tiboFcreacion": "2020-08-28T22:16:19.878+00:00",
+                "tiboUactualizacion": null,
+                "tiboFactualizacion": "2020-08-28T22:16:33.564+00:00"
+            },
+            {
+                "tiboTibo": 2,
+                "tiboNombre": "Almacenamiento",
+                "tiboDescripcion": "Particular",
+                "tiboEstado": "ACT",
+                "tiboUcreacion": "Periferia",
+                "tiboFcreacion": "2020-08-28T22:16:19.878+00:00",
+                "tiboUactualizacion": null,
+                "tiboFactualizacion": "2020-08-28T22:17:14.644+00:00"
+            },
+            {
+                "tiboTibo": 3,
+                "tiboNombre": "Almacenamiento",
+                "tiboDescripcion": "Particular Arrendada",
+                "tiboEstado": "ACT",
+                "tiboUcreacion": "Periferia",
+                "tiboFcreacion": "2020-08-28T22:16:19.878+00:00",
+                "tiboUactualizacion": null,
+                "tiboFactualizacion": "2020-08-28T22:17:14.677+00:00"
+            },
+            {
+                "tiboTibo": 4,
+                "tiboNombre": "Almacenamiento",
+                "tiboDescripcion": "Tránsito",
+                "tiboEstado": "ACT",
+                "tiboUcreacion": "Periferia",
+                "tiboFcreacion": "2020-08-28T22:16:19.878+00:00",
+                "tiboUactualizacion": null,
+                "tiboFactualizacion": "2020-08-28T22:17:14.741+00:00"
+            }
+        ],
+        "tipoOperacionTitulo": [
+            {
+                "tiopeTiope": 1,
+                "tiopeNombre": "Incentivo",
+                "tiopeEstado": "ACT"
+            },
+            {
+                "tiopeTiope": 2,
+                "tiopeNombre": "REPO",
+                "tiopeEstado": "ACT"
+            },
+            {
+                "tiopeTiope": 3,
+                "tiopeNombre": "Operación de crédito",
+                "tiopeEstado": "ACT"
+            },
+            {
+                "tiopeTiope": 4,
+                "tiopeNombre": "Doble propósito",
+                "tiopeEstado": "ACT"
+            }
+        ],
+        "materialSapTitulos": [
+            {
+                "matsaMatsa": 1,
+                "matsaCodigo": "123",
+                "matsaDescripcion": "Monkey D Luffy",
+                "matsaEstado": "ACT"
+            },
+            {
+                "matsaMatsa": 2,
+                "matsaCodigo": "2123",
+                "matsaDescripcion": "Roronoa Zoro",
+                "matsaEstado": "ACT"
+            },
+            {
+                "matsaMatsa": 3,
+                "matsaCodigo": "3151",
+                "matsaDescripcion": "Jinbei",
+                "matsaEstado": "ACT"
+            },
+            {
+                "matsaMatsa": 4,
+                "matsaCodigo": "412D2",
+                "matsaDescripcion": "Trafalgar Law",
+                "matsaEstado": "ACT"
+            },
+            {
+                "matsaMatsa": 5,
+                "matsaCodigo": "3002188",
+                "matsaDescripcion": "ALMACEN BG PART BONOS PRENDA PROD AGRI",
+                "matsaEstado": "ACT"
+            },
+            {
+                "matsaMatsa": 6,
+                "matsaCodigo": "3002189",
+                "matsaDescripcion": "ALMACEN BG PARTICULAR BONOS PRENDA",
+                "matsaEstado": "ACT"
+            },
+            {
+                "matsaMatsa": 7,
+                "matsaCodigo": "3002190",
+                "matsaDescripcion": "ALMACEN BG PROP BONOS PRENDA PROD AGRI",
+                "matsaEstado": "ACT"
+            },
+            {
+                "matsaMatsa": 8,
+                "matsaCodigo": "3002191",
+                "matsaDescripcion": "ALMACEN BG PROPIA BONOS PRENDA",
+                "matsaEstado": "ACT"
+            }
+        ],
+        "wmsManual": false
+    }
+}
